@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gpt3-codex-comment/static/css/main.e6c13ad2.css",
+    "main.js": "/gpt3-codex-comment/static/js/main.618a1cd9.js",
+    "static/js/787.95f8eeae.chunk.js": "/gpt3-codex-comment/static/js/787.95f8eeae.chunk.js",
+    "index.html": "/gpt3-codex-comment/index.html",
+    "main.e6c13ad2.css.map": "/gpt3-codex-comment/static/css/main.e6c13ad2.css.map",
+    "main.618a1cd9.js.map": "/gpt3-codex-comment/static/js/main.618a1cd9.js.map",
+    "787.95f8eeae.chunk.js.map": "/gpt3-codex-comment/static/js/787.95f8eeae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.618a1cd9.js"
+  ]
+}
